@@ -1,5 +1,5 @@
 ---
-name: Assignment 10
+name: Final_Project_3
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/visualization.png
 description: This is the assignment 10 from group 22
@@ -10,13 +10,13 @@ custom_js:
   - justcharts
 ---
 
-# Assignment 10
+# Fianl_Project_3
 
-### Group 22
+### Group 6
 
-Zhizhou Xu, Yeting Qi
+Zhizhou Xu, Yeting Qi, Jindi Zhang
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/rect_temperature.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/online_cv_publicPPG_AGE.json" style="width: 100%"></vegachart>
 This visualization shows the distribution of temperature from 50 states of the US. X axis is the highest temerature record and the y axis are the states. The color from light green to dark blue in every block means the number of records in that specific range of temperature. As you can see, we used "rect" mark to visualize this dataset because we wanted to make it as a heatmap. We also chose "orangered" as our color scheme because by using this color scheme, we can feel a sense of heat.
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/hist_temperature.json" style="width: 100%"></vegachart>
