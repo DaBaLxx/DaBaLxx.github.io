@@ -1,5 +1,5 @@
 ---
-name: Final_Project_3
+name: Final Project 3
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/visualization.png
 description: This is the assignment 10 from group 22
