@@ -1,6 +1,8 @@
 {
   "config": { "view": { "continuousWidth": 400, "continuousHeight": 300 } },
-  "data": { "url": "NBA_Stats_202122_All_Player_Statistics_in_one_Page.csv" },
+  "data": {
+    "url": "https://raw.githubusercontent.com/DaBaLxx/DaBaLxx.github.io/main/_data/NBA_Stats_202122_All_Player_Statistics_in_one_Page.csv"
+  },
   "mark": "line",
   "encoding": {
     "color": { "value": "#FF9999" },
