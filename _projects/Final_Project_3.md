@@ -2,7 +2,7 @@
 name: Final Project 3
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/final_visualization.png
-description: This is the assignment 10 from group 22
+description: This is the final project part 3.1 from group 22
 custom_js:
   - vega.min
   - vega-lite.min
@@ -10,7 +10,7 @@ custom_js:
   - justcharts
 ---
 
-# Fianl_Project_3
+# NBA Player Statistics Analysis 2021-2022
 
 ### Group 6
 
