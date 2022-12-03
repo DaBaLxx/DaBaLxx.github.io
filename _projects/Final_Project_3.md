@@ -38,5 +38,5 @@ We choose to create a dashboard with a heatmap on the left and a bar graph on th
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/DaBaLxx/DaBaLxx.github.io/blob/main/python_notebooks/group-6-finalproject-3.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/DaBaLxx/DaBaLxx.github.io/blob/main/python_notebooks/group-6-final-project-3.ipynb" text="The Analysis" %}
 </div>
